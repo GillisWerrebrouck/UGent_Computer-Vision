@@ -1,1 +1,1 @@
-# UGent_Computer-Vision
+# UGent Computer Vision
